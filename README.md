@@ -36,6 +36,7 @@ Proyectos 💻
 He trabajado en diversos proyectos, algunos como parte de mi formación y otros por curiosidad propia. Aquí algunos de ellos:
 
 Kingstore: Una aplicación en Java para gestionar un sistema de inventario https://gitlab.com/carlosmendozajimenez/project1_group5_kingstore.
+
 CarConnect: Una aplicación en Java para gesitionar un sistema de reserva de vehiculos.
   Memoria: https://docs.google.com/document/d/1rDW2JKC5IKOYyLZL2HBUOGQDDR4lrDda6XauRIjkXtY/edit?usp=drive_link
   Presentació: https://docs.google.com/presentation/d/1ApCSA5kUb0jkBchan5baALm2-8SvCQQd_oLZCjBHY9k/edit?usp=drive_link
