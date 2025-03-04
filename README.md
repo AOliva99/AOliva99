@@ -40,7 +40,7 @@ Presentación: https://docs.google.com/presentation/d/1ApCSA5kUb0jkBchan5baALm2-
 GitLab: https://gitlab.com/carconnectg2/carconnect-g2.git
 
 ADME: Un portal de anuncios diseñado para permitir a los usuarios publicar y visualizar anuncios de forma sencilla y efectiva. Este proyecto fue realizado utilizando Android Studio, y se enfoca en facilitar la interacción de los usuarios a través de una interfaz intuitiva y funcionalidades clave para crear, editar y gestionar anuncios. El sistema de backend se integra con bases de datos para garantizar la persistencia de la información, y se optimiza para ofrecer una experiencia fluida tanto en dispositivos móviles como en versiones futuras de la aplicación.
-GitLab: https://gitlab.com/carlosmendozajimenez/proyect3_group4.git
+GitLab: https://github.com/AOliva99/adme.git
 Memoria del proyecto: https://docs.google.com/document/d/1yyGfYv2DW7MGcufgoR6x_BNlNMNk55MZeZt6ExYsG1s/edit?usp=drive_link
 
 Mis Objetivos 🎯
